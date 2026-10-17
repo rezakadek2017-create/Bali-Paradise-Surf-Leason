@@ -1,0 +1,18 @@
+{
+  "name": "bali-paradise-surf-theme",
+  "version": "1.0.0",
+  "description": "Bali Paradise Surf Lesson - WordPress Theme & Live Preview",
+  "scripts": {
+    "dev": "php -S localhost:8000 router.php",
+    "start": "php -S localhost:8000 router.php",
+    "serve": "php -S localhost:8000 router.php"
+  },
+  "keywords": [
+    "wordpress",
+    "theme",
+    "surf-school",
+    "bali"
+  ],
+  "author": "Bali Paradise Surf Lesson",
+  "license": "GPL-2.0-or-later"
+}
